@@ -3,7 +3,7 @@ import React from 'react'
 
 const index = () => {
   return (
-    <View>
+    <View>    jhjhjh
       <Text>index</Text>
     </View>
   )
